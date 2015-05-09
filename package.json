@@ -1,0 +1,19 @@
+{
+  "name": "scoped-warning",
+  "version": "1.0.0",
+  "description": "Creates a scoped warning() error for tracking who is throwing what",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquense/scoped-warning"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquense/scoped-warning/issues"
+  },
+  "homepage": "https://github.com/jquense/scoped-warning"
+}
